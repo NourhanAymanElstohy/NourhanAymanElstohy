@@ -52,7 +52,6 @@ you can always contact me at: <br>
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=NourhanAymanElstohy&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
